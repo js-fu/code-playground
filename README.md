@@ -17,3 +17,8 @@
 ## ngnix
 
 - [mac下使用brew安装nginx](https://www.jianshu.com/p/fb7f873f26fe)
+
+
+## 其他
+
+- [IOS科学上网](https://github.com/js-fu/code-playground/blob/master/IOS科学上网.md)
