@@ -2,7 +2,7 @@
 
 1. 先安装[TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
 
-1. 再在浏览器中打开 [https://testflight.apple.com/join/NkF46PRd](https://testflight.apple.com/join/NkF46PRd)，下载安装Potatso Lite
+1. 再在iPhone的浏览器中打开 [https://testflight.apple.com/join/NkF46PRd](https://testflight.apple.com/join/NkF46PRd)，下载安装Potatso Lite
 
 1. 然后在Potatso Lite中配置，支持链接、二维码和手动填写，配置完连接成功即可科学上网。
 
